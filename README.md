@@ -82,6 +82,8 @@ Only the top 20 layers of EfficientNetB0 were made trainable to fine-tune the mo
 * **Epochs:** 10
 * **Batch Size:** 16
 
+Note: Due to limited patience, the model was only trained for 10 epochs, achieving an accuracy of 0.8078. With more epochs, the model could potentially achieve better prediction performance.
+
 ---
 
 ## Performance
@@ -141,8 +143,6 @@ A lightweight and interactive Gradio UI allows users to upload an image and rece
 * Improve real-time inference speed using model quantization or TFLite
 
 ---
-
-## License
 
 ## License
 
