@@ -114,11 +114,6 @@ A lightweight and interactive Gradio UI allows users to upload an image and rece
 
    Use the provided script to download, preprocess, augment, and train the model.
 
-3. **Launch Gradio App:**
-
-   ```bash
-   python your_script.py
-   ```
 
 ---
 
