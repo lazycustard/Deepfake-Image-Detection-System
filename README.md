@@ -144,4 +144,9 @@ A lightweight and interactive Gradio UI allows users to upload an image and rece
 
 ## License
 
-This project is for educational and research purposes. Please refer to the original dataset license before using in commercial applications.
+## License
+
+This project is licensed under the GNU General Public License v3.0.
+
+You are free to use, modify, and distribute this software under the terms of the GPLv3.  
+See the [LICENSE](LICENSE) file for full details.
