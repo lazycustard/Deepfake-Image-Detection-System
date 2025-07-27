@@ -89,6 +89,14 @@ Note: Due to limited patience, the model was only trained for 10 epochs, achievi
 ## Performance
 
 Training and validation accuracy and loss are plotted using `matplotlib`. The model is saved as `deepfake_cnn.h5` for future inference.
+Sample prediction outputs (click to view):
+
+Sample prediction outputs:
+
+fakedetect1.png, fakedetect2.png: Fake face detection examples
+realdetect1.png, realdetect2.png: Real face detection examples
+
+These images demonstrate the working of the trained model on unseen data.
 
 ---
 
